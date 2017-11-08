@@ -3,4 +3,4 @@ aiueo
 aiueo
 
 abilene5
-
+local で作業
